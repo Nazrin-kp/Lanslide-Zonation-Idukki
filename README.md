@@ -50,8 +50,13 @@ The final susceptibility model uses the following six conditioning factors:
 ### Note
 
 Lithology (Geology) was initially considered but excluded from the final model because the available geological sheet (58C13) did not provide complete spatial coverage of the study area.
-
 ---
+
+## Data Availability
+
+Due to GitHub file size limitations, the complete datasets used in this study are hosted separately. They are available at the following link:
+
+**Dataset:** https://drive.google.com/drive/folders/12lpMEmCydKSURo0EAerpUobpOKccTZSm?usp=sharing
 
 ## Repository Structure
 
