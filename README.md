@@ -58,6 +58,10 @@ Due to GitHub file size limitations, the complete datasets used in this study ar
 
 **Dataset:** https://drive.google.com/drive/folders/12lpMEmCydKSURo0EAerpUobpOKccTZSm?usp=sharing
 
+## Validation
+
+The final landslide susceptibility map was qualitatively validated using **7 historical landslide events** extracted from the "NASA Global Landslide Catalog". Historical landslide locations were overlaid on the final susceptibility map, and raster values were sampled at each event location. **All seven documented landslide events (100%) were located within the High or Very High susceptibility zones**, demonstrating strong agreement between the AHP-based susceptibility model and historical landslide occurrences in the study area.
+
 ## Repository Structure
 
 ```text
