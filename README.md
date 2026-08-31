@@ -131,7 +131,6 @@ Potential enhancements include:
 
 - Integration of lithology with complete geological datasets
 - Machine learning-based susceptibility modelling
-- Validation using historical landslide inventory
 - Web GIS deployment for interactive visualization
 
 ---
